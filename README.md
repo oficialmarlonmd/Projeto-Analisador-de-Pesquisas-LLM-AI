@@ -1,0 +1,1 @@
+# Projeto-Analisador-de-Pesquisas-LLM-AI
